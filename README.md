@@ -1,1 +1,1 @@
-# python_lessons
+# python_darslar
